@@ -83,7 +83,6 @@ jupyter notebook
 3. **나이 분포에 따른 생존 여부**
    - 어린이의 생존율이 상대적으로 높음.
 
-![예시 이미지](images/survival_by_gender.png)
 
 ---
 
